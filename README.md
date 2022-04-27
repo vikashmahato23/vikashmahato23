@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vikash Mahato</h1>
+<h1 align="center">Hi 👋, I'm Vikash Mahato</h1> <img src="https://c.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif"/>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://vikashportfolio.netlify.app/](https://vikashportfolio.netlify.app/)
