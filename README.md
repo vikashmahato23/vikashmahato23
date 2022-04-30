@@ -32,5 +32,11 @@
 ## Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
 <p> 
- <img src="https://raw.githubusercontent.com/vikashmahato23/vikashmahato23/output/github-contribution-grid-snake.gif" />
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
 </p>
+
+<!-- addded on 3rd May 2022 -->
+
+#### **Visitor Count**
+
+![Visitor Count](https://profile-counter.glitch.me/{vikashmahato23}/count.svg)
