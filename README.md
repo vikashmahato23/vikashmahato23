@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Vikashkm84@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iByrLxVnLjmOao6H-A_e6jdWgbJ-hHjsnV84K2qisKk/edit?usp=sharing](https://docs.google.com/document/d/1iByrLxVnLjmOao6H-A_e6jdWgbJ-hHjsnV84K2qisKk/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1c0ReLLa6QNi9yQBWJY2Y8YKPADAZ6JBk)
 
 - ⚡ Fun fact **I think I am funny.**
 
